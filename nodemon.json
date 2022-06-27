@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "Local_admin",
+    "MONGO_PASSWORD": "1704AnAg",
+    "MONGO_DATABASE": "Cluster0",
+    "SENDGRID_KEY": "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"
+  }
+}
